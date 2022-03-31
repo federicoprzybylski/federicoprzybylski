@@ -1,16 +1,17 @@
-### Hi there 👋
+# Mi presentacion
 
-<!--
-**federicoprzybylski/federicoprzybylski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy **Przybylski Federico**
 
-Here are some ideas to get you started:
+### Estudiante de 5to año de  Avionica en la escuela *IMPA*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ tengo 16 años y vivo en Berazategui
+
+## Hobbys:
+- Programar
+- Aprender Idiomas
+  
+## Objetivos:
+
+Corto plazo | Largo plazo
+| -- | -- |
+Terminar la secundaria | Seguir la carrera de Ingenieria en Software
